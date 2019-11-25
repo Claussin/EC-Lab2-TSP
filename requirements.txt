@@ -1,0 +1,6 @@
+deap==1.3.0
+matplotlib==3.1.2
+numpy==1.17.4
+pyparsing==2.4.5
+python-dateutil==2.8.1
+tsplib95==0.6.0
